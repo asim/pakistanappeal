@@ -1,4 +1,4 @@
-# 🇵🇰 pakistanappeal.org
+# 🇵🇰 Pakistan Appeal
 
 Help pakistan flood victims
 
