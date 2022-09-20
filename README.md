@@ -39,7 +39,7 @@ Socially organised elsewhere on the internet
 
 ## Contribute
 
-Go to [https://github.com/asim/pakistanappeal.org](https://github.com/asim/pakistanappeal.org) to contribute to this page.
+Go to [github](https://github.com/asim/pakistanappeal.org) to contribute to this page.
 
 ## Notice
 
