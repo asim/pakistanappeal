@@ -22,6 +22,7 @@ Here's a list of charities/appeals you can donate to immediately
 - [UNICEF](https://www.unicef.org.uk/donate/pakistan/)
 - [Amir Khan Foundation](https://www.amirkhanfoundation.com/Pakistanfloods)
 - [Reddit.com/r/pakistan](https://www.reddit.com/r/pakistan/comments/wxbt4v/donate_now_to_flood_victims_participate_in_the/)
+- [GoFundMe Fundraisers](https://www.gofundme.com/c/act/donate-to-pakistan-flood-relief)
 
 ## Articles
 
