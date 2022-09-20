@@ -21,3 +21,10 @@ Here's a list of charities/appeals you can donate to immediately
 - [Penny Appeal](https://pennyappeal.org/appeal/pakistan-floods)
 - [UNICEF](https://www.unicef.org.uk/donate/pakistan/)
 - [Amir Khan Foundation](https://www.amirkhanfoundation.com/Pakistanfloods)
+
+## Articles
+
+- [Pakistan appeals for ‘immense’ international response to floods](https://www.theguardian.com/world/2022/sep/03/pakistan-appeals-for-immense-international-response-to-floods)
+- [Pakistan reels from floods: ‘We thought we’d die of hunger. Now we fear death from water’](https://www.theguardian.com/world/2022/sep/17/drought-floods-pakistan-devastation-climate-crisis)
+- [Climate change likely helped cause deadly Pakistan floods, scientists find](https://www.npr.org/2022/09/19/1123798981/climate-change-likely-helped-cause-deadly-pakistan-floods-scientists-find)
+- [Why are Pakistan’s floods so extreme this year?](https://www.nature.com/articles/d41586-022-02813-6)
