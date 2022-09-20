@@ -1,6 +1,6 @@
 # 🇵🇰 Pakistan Appeal
 
-Help pakistan flood victims
+Help Pakistan flood victims
 
 ## Overview
 
