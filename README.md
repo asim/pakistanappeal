@@ -5,7 +5,9 @@ Help pakistan flood victims
 ## Overview
 
 Pakistan is suffering from a devastating flood impact related to heavy monsoon season rainfall. This has affected 33 million people in Pakistan. 
-Over 1000 people have died, over 10,000 people were injured and half a million are living in temporary camps because of the flooding. Learn more on [Wikipedia](https://en.wikipedia.org/wiki/2022_Pakistan_floods)
+Over 1000 people have died, over 10,000 people were injured and half a million are living in temporary camps because of the flooding. 
+
+Learn more on [Wikipedia](https://en.wikipedia.org/wiki/2022_Pakistan_floods)
 
 ## Appeals
 
@@ -19,7 +21,6 @@ Here's a list of charities/appeals you can donate to immediately
 - [Muslim Hands](https://muslimhands.org.uk/appeals/pakistan-floods-emergency)
 - [Penny Appeal](https://pennyappeal.org/appeal/pakistan-floods)
 - [UNICEF](https://www.unicef.org.uk/donate/pakistan/)
-- [Amir Khan Foundation](https://www.amirkhanfoundation.com/Pakistanfloods)
 - [Reddit.com/r/pakistan](https://www.reddit.com/r/pakistan/comments/wxbt4v/donate_now_to_flood_victims_participate_in_the/)
 - [GoFundMe Fundraisers](https://www.gofundme.com/c/act/donate-to-pakistan-flood-relief)
 
