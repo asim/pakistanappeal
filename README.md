@@ -37,10 +37,10 @@ Socially organised elsewhere on the internet
 - [Why are Pakistan’s floods so extreme this year?](https://www.nature.com/articles/d41586-022-02813-6)
 - [People dying of water-borne diseases in flood-hit Pakistan](https://www.aljazeera.com/news/2022/9/20/people-dying-of-water-borne-diseases-in-flood-hit-pakistan)
 
-## Notice
-
-Pakistanappeal.org is a collection of appeals, information and articles. We are not an organisation and will not ask for any money directly.
-
 ## Contribute
 
 Go to [https://github.com/asim/pakistanappeal.org](https://github.com/asim/pakistanappeal.org) to contribute to this page.
+
+## Notice
+
+Pakistanappeal.org is a collection of appeals, information and articles. We are not an organisation and will not ask for any money directly.
