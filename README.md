@@ -31,6 +31,7 @@ Socially organised elsewhere on the internet
 
 ## Articles
 
+- [Journey inside Pakistan’s flood zone reveals how poorest were hit hardest](https://www.washingtonpost.com/world/2022/09/29/pakistan-floods-climate-change-poverty/)
 - [Pakistan appeals for ‘immense’ international response to floods](https://www.theguardian.com/world/2022/sep/03/pakistan-appeals-for-immense-international-response-to-floods)
 - [Pakistan reels from floods: ‘We thought we’d die of hunger. Now we fear death from water’](https://www.theguardian.com/world/2022/sep/17/drought-floods-pakistan-devastation-climate-crisis)
 - [Climate change likely helped cause deadly Pakistan floods, scientists find](https://www.npr.org/2022/09/19/1123798981/climate-change-likely-helped-cause-deadly-pakistan-floods-scientists-find)
