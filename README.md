@@ -39,5 +39,3 @@ Socially organised elsewhere on the internet
 ## Notice
 
 Pakistanappeal.org is a collection of articles, information and resources. 
-
-We are not an official organisation and will never ask for any money directly.
