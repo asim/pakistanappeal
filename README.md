@@ -7,8 +7,6 @@ Help Pakistan flood victims
 Pakistan is suffering from a devastating flood impact related to heavy monsoon season rainfall. This has affected 33 million people in Pakistan. 
 Over 1000 people have died, over 10,000 people were injured and half a million are living in temporary camps because of the flooding. 
 
-Learn more on [Wikipedia](https://en.wikipedia.org/wiki/2022_Pakistan_floods). Follow us on [Twitter](https://twitter.com/pakistanappeal).
-
 ## Appeals
 
 Here's a list of charities/appeals you can donate to immediately
